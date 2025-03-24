@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.char-main-container {
+    margin-top: 50px;
+}
+
+.pokemon-card {
+    background: #ffffff1a;
+    border: 1px solid #ffffff20;
+    backdrop-filter: blur(35px) saturate(120%);
+    box-shadow: 0 4px 12px rgb(0, 0, 0);
+    font-weight: 600;
+}

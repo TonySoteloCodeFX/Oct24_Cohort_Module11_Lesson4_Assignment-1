@@ -1,0 +1,14 @@
+.mainApp {
+    height: 100vh;
+    background-image: url(/Pokemon_scenic_valley.png);
+    background-size: cover;
+}
+
+.logo {
+    background-image: url(/PokemonLogo.png);
+    width: 650px;
+    height: 260px;
+    margin: auto;
+    background-position-y: -210px;
+    background-size: cover;
+}
